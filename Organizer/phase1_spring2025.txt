@@ -1,0 +1,11 @@
+C01, Will Smith, 01-JAN-80  
+C02, Margot Robbie, 14-APR-92
+C03, Ryan Gosling, 01-JAN-80
+P01, Taylor Swift Ticket, 195.50
+P02, Database Textbook, 74.99
+P03, Beignet Mix, 2.97
+C01, 1500 Sugar Bowl
+C02, 1501 Dave Dixon
+1, 5, This stuff is spicy!
+1, 5, Best book I've ever read
+1, 2, This was too sweet
